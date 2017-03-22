@@ -12,7 +12,7 @@ angular.module('app')
 
       // config
       $scope.app = {
-        name: 'Spymob Espiao de Computador teste',
+        name: 'Sindia gostosa dsdsdsdsds',
         version: '2.0.0.1',
         // for chart colors
         color: {
